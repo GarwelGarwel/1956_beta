@@ -29,16 +29,16 @@
  #focuses
 
  VEN_congress:0 "Address the Congress"
- VEN_congress_desc:0 "Dictatorship of Juan Vicente Gómez lasting from 1908 till 1935 has finally come to an end. His controversial rule has changed our nominal democratic republic in a many ways. It is time to address the issue of the arisen power vacuum in the national Congress in Caracas."
+ VEN_congress_desc:0 "Dictatorship of Juan Vicente Gómez lasting from 1908 till 1935 has finally come to an end. His controversial rule has changed our nominal democratic republic in a many ways. It is time to address the issue of the power vacuum in the national Congress in Caracas."
 
  VEN_1935_elections:0 "Finalize The 1935 Elections"
- VEN_1935_elections_desc:0 "Juan Vicente Gómez in his last years has distanced himself from the public, spending most of his time in his personal mansion Maracay. His sudden and mysterious death has left many people of our nation questioning who will lead [ROOT.getNameDef] to its prosperity in a future. Voices from the country's elections of 1935 are still being counted. Who has won the Power Struggle?"
+ VEN_1935_elections_desc:0 "Juan Vicente Gómez in his last years has distanced himself from the public, spending most of his time in his personal mansion Maracay. His sudden and mysterious death has left many people of our nation questioning who will lead [ROOT.getNameDef] to its prosperity in the future. Votes from the country's elections of 1935 are still being counted. Who won the power struggle?"
 
  ##################################### CONTRERAS #######################################
 
 
  VEN_eleazar_contreras:0 "Inaugurate Contreras"
- VEN_eleazar_contreras_desc:0 "Former War Minister, Eleazar López Contreras, took the rule over the country for the time being, as long as, 'worthier candidate will not be found'. Now it becomes apparent that he is the most suitable person for this job with most of the [ROOT.getAdjective] citizens voting in his favor. Inauguration shall be commenced as soon as possible!"
+ VEN_eleazar_contreras_desc:0 "Former War Minister, Eleazar López Contreras, took the rule over the country for the time being until 'a worthier candidate is found'. Now it becomes apparent that he is the most suitable person for this job with most of the [ROOT.getAdjective] citizens voting in his favor. Inauguration shall be commenced as soon as possible!"
 
  VEN_health_and_social_assistance:0 "Found the Ministerio de Sanidad"
  VEN_health_and_social_assistance_desc:0 "The issue of the high mortality rate among the children from many infectious diseases can be addressed more efficiently if the Ministry of Health (Ministerio de Sanidad) will be established. Our adult citizens will also benefit greatly from the newly founded medical facilities cross country."
@@ -56,10 +56,10 @@
  VEN_miraflores_concessions_desc:0 "Many young people questioned the authoritarian rule of Gomez and widespread corruption of the country's officials. Some of the most radical ones demanded liberalization and democratization of the state apparatus. Surely we cannot bend to the will of all of them, but perhaps the state reform is a necessary step to a bright and prosperous future?"
 
  VEN_presidential_amendment:0 "Reform the Presidential Amendments"
- VEN_presidential_amendment_desc:0 "Few of the people realize that the president is capable of drastically changing the political climate in the highest echelons of power. Let [ROOT.getLeader] show to the people what leader he is by adding few nation protection amendments to what might be called a constitution of [ROOT.getNameDef]."
+ VEN_presidential_amendment_desc:0 "Few people realize that the president is capable of drastically changing the political climate in the highest echelons of power. Let [ROOT.getLeader] show to the people what leader he is by adding a few nation protection amendments to what might be called a constitution of [ROOT.getNameDef]."
 
  VEN_DSN:0 "Form the DSN"
- VEN_DSN_desc:0 "The democratic nature of our fragile state remains under constant threat from inside and outside. Directory of National Security (Dirección de Seguridad Nacional) must be established to investigate and pacify any threat to the current governmental institutions. "
+ VEN_DSN_desc:0 "The democratic nature of our fragile state remains under constant threat from inside and outside. Directory of National Security (Dirección de Seguridad Nacional) must be established to investigate and pacify any threat to the current governmental institutions."
 
  VEN_reshuffle_of_general_staff:0 "Eliminate Strong Gómez Loyalists"
  VEN_reshuffle_of_general_staff_desc:0 "Gomez and his clique has bound many rebellious generals and military commanders to their cause of enriching themselves on the cost of the common man. If we are to establish a modern state with organized arms forces, one must think of getting rid of the obsolete caudillo-supporting structures."
@@ -85,7 +85,7 @@
  ##################################### ANGARITA #######################################
 
  VEN_isaias_angarita:0 "Moderate the Cabinet"
- VEN_isaias_angarita_desc:0 "People reluctance to trust militarists and nationalists is seen so clear as never before: Isaias Medina Angarita, taking most liberal and democratic approach, has won a majority of the votes. His promise of new Venezuela will become even clearer to the masses after his inauguration speech this morning."
+ VEN_isaias_angarita_desc:0 "People's reluctance to trust militarists and nationalists is seen so clear as never before: Isaias Medina Angarita, taking the most liberal and democratic approach, has won a majority of the votes. His promise of new Venezuela will become even clearer to the masses after his inauguration speech this morning."
 
  VEN_legalize_communism:0 "Legalize the PCV"
  VEN_legalize_communism_desc:0 "Even though Partido Comunista de Venezuela, or PCV, has remained a thorn in governments eyes, it still holds its positions among the rural people. Easing tensions and finding compromises might be difficult, yet it is the only way to go if we want to achieve out desired future."
@@ -254,7 +254,7 @@
  VEN_support_chilean_revolution:0 "Support the Chilean Revolution"
  VEN_support_chilean_revolution_desc:0 ""
 
- VEN_support_brazillian_revolution:0 "Support the Brazillian Revolution"
+ VEN_support_brazillian_revolution:0 "Support the Brazilian Revolution"
  VEN_support_brazillian_revolution_desc:0 ""
 
  VEN_push_to_end_captalism:0 "The Great Push"
@@ -471,7 +471,7 @@
 
  ############################### PRO-ALLIES PATH ################################
  VEN_join_allies:0 "Reject Fascism"
- VEN_join_allies_desc:0 "Despite our sympathies to the fascists it is no doubt the democracies of the world are in the fight for freedom in the world, so us and our oil deposits will fly under the banner of the Allies!"
+ VEN_join_allies_desc:0 "Despite our sympathies to the fascists it is no doubt the democracies of the world are in the fight for freedom in the world, so us and our oil deposits will fly the banner of the Allies!"
 
  VEN_food_importation:0 "Food Importation"
  VEN_food_importation_desc:0 "Self-reliance and autarkic policies might be a promising strategies in short-term, yet open trade with our allies will benefit our economy way better. Few deals were already struck to start importing goods and food from the Western allies. "
@@ -525,7 +525,7 @@
  ################################### ARMY ##############################
 
  VEN_reform_GNB:0 "Foundation of the GNB"
- VEN_reform_GNB_desc:0 "Our armed forces require a few specialized unit tasked with gendarmerie and civil protection duties. Gathered funds allow us to form Guardia Nacional Bolivariana de Venezuela, which additionally can serve as a reserve light infantry force. "
+ VEN_reform_GNB_desc:0 "Our armed forces require a few specialized units tasked with gendarmerie and civil protection duties. Gathered funds allow us to form Guardia Nacional Bolivariana de Venezuela, which additionally can serve as a reserve light infantry force."
 
  VEN_raise_the_GNB:0 "Raise GNB Divisions"
  VEN_raise_the_GNB_desc:0 "With tensions at ans obsolete breaking point and now threatening our own homeland, it is now time we call in the GNB's national defence force to protect us from foreign threats."
@@ -571,7 +571,7 @@
 
  ######################################## NAVY ######################################
  VEN_navy:0 "Bolivarian Navy"
- VEN_navy_desc:0 "The naval branch of our armed forces is far less corrupt and rebellious if compared to the land forces. Yet its current state is nothing more than puny: with only two destroyers at our disposal, we cannot even properly reinforce the coastal guards to stop the excessive immagration."
+ VEN_navy_desc:0 "The naval branch of our armed forces is far less corrupt and rebellious compared to the land forces. Yet its current state is nothing more than puny: with only two destroyers at our disposal, we cannot even properly reinforce the coastal guards to stop the excessive immigration."
 
  VEN_fleet_in_being:0 "Dominance in the Caribbean"
  VEN_fleet_in_being_desc:0 "The Caribbean basin remains an uncontested area where several small naval powers battle for a dominance over. A single heavy cruiser, battleship or carrier is enough to shift the balance in our favor. Our commanders are ready to reinforce the idea of great fleet worth of an empire."
@@ -601,19 +601,19 @@
  VEN_stealth_upgrades_desc:0 "Our enemy might know what we will try to do and thus will seek to prepare few measures to counter our newborn submarine flotilla. Our scientists, however, know how to counteract their counteract action by developing new silenced snorkels."
 
  VEN_national_admiralty:0 "National Admiralty"
- VEN_national_admiralty_desc:0 "Good vessel might make a good single shot, but its the dedicated team who will win the entirety of the fight. And well-educated naval commanders and admirals will surely win a war. Establishing a specialized academy to train new men and women in terms of naval warfare will grant fruitful results in the future."
+ VEN_national_admiralty_desc:0 "Good vessel might make a good single shot, but it is the dedicated team who will win the entirety of the fight. And well-educated naval commanders and admirals will surely win a war. Establishing a specialized academy to train new men and women in terms of naval warfare will grant fruitful results in the future."
 
  VEN_dockyards:0 "Expand Zulia Shipping"
- VEN_dockyards_desc:0 "The city of Maracaibo is one of the biggest ports and naval bases our country has to offer to the foreign traders and external ships. Expanding its capabilities and diversifying the production facilities will increase our overall naval production to a brand-new level."
+ VEN_dockyards_desc:0 "The city of Maracaibo is one of the biggest ports and naval bases our country has to offer to foreign traders and external ships. Expanding its capabilities and diversifying the production facilities will increase our overall naval production to a brand-new level."
 
 
 
  ######################################## INDUSTRY ++ OIL ######################################
  VEN_major_oil_discoveries:0 "Address the Economic Situation"
- VEN_major_oil_discoveries_desc:0 "Located at the Eastern shore of the lake Maracaibo, the city of Cabimas is considered one of the centres of the [ROOT.getAdjective] oil industry. Recent years saw aa substantial growth of its oil and petroleum industries due to the oil prospecting in its vicinity."
+ VEN_major_oil_discoveries_desc:0 "Located at the eastern shore of the lake Maracaibo, the city of Cabimas is considered one of the centres of the [ROOT.getAdjective] oil industry. Recent years saw a substantial growth of its oil and petroleum industries due to the oil prospecting in its vicinity."
 
  VEN_national_recovery_act:0 "National Recovery Act"
- VEN_national_recovery_act_desc:0 "Our country's economy is extremely reliant on the crude petroleum exports, reaching up to the 80% of the net exports value. Further solely reliance on nonrenewable resources might play a bad game with our people later. Ending reliance is a hard task, yet it must be done at some point. "
+ VEN_national_recovery_act_desc:0 "Our country's economy is extremely reliant on the crude petroleum exports, reaching up to the 80% of the net exports value. Furthermore, sole reliance on nonrenewable resources might play a bad game with our people later. Ending reliance is a hard task, yet it must be done at some point. "
 
  VEN_alternatives_to_oil:0 "Alternatives to Oil"
  VEN_alternatives_to_oil_desc:0 "Some iron deposits in Cerro San Isidro were discovered in the recent geological survey providing us with an alternative to the oil exports."
@@ -795,7 +795,7 @@
  venezuela.3.a:0 "Very well."
 
  venezuela.4.t:0 "1935 Venezuelan Elections"
- venezuela.4.d:0 "After the death Juan Vicente Gómez in late 1935 a large power struggle opend within Venezuelan politics for a suitable sucessor for his rule, Gómez had previously ruled with an iron fist to consolidate his power and authority.\n\nEleazar López Contreras, a collaborator and close friend of Gómez's assumed power after his death, however even during his reign Contreras was highly critical of Gómez's policies and intends to reform and modernize the nation.\n\nHowever, there are several political leaders within Venezuela such as Rómulo Gallegos and Isaías Medina Angarita who beleive Venezuela should be reformed into a free western-style democracy. But more exstrimest groups such as General Marcos Pérez Jiménez are highly supportive of Gómez's policies and seek to continue them, Jiménez had previously been witheld from holding any significant political presence but now with the power struggle it may be a perfect oppurtunity for him to take power."
+ venezuela.4.d:0 "After the death Juan Vicente Gómez in late 1935 a large power struggle opened within Venezuelan politics for a suitable sucessor for his rule. Gómez had previously ruled with an iron fist to consolidate his power and authority.\n\nEleazar López Contreras, a collaborator and close friend of Gómez's assumed power after his death, however even during his reign Contreras was highly critical of Gómez's policies and intends to reform and modernize the nation.\n\nHowever, there are several political leaders within Venezuela such as Rómulo Gallegos and Isaías Medina Angarita who beleive Venezuela should be reformed into a free western-style democracy. But more extremist groups such as General Marcos Pérez Jiménez are highly supportive of Gómez's policies and seek to continue them. Jiménez had previously been witheld from holding any significant political presence, but now with the power struggle it may be a perfect oppurtunity for him to take power."
  venezuela.4.a:0 "Eleazar Contreras Will Reform and Modernise Venezuela."
  venezuela.4.b:0 "Isaías Angarita is a Conservative Reformer, Exsactly What Venezuela Needs."
  venezuela.4.c:0 "Rómulo Gallegos Knows What's Right For The Venezuelan People."
@@ -842,12 +842,12 @@
  venezuela.13.a:0 "Their Loss."
 
  venezuela.15.t:0 "Strikes in Caracas!"
- venezuela.15.d:0 "Recently many riots and protests have erupted in the capital Caracas, mostly fueled by the peasnt population disatisfied with the living conditions and work wages. Most of which situated around the Miraflores Palace, the dederal government office of the Venezuela.\n\nMany protestors have demanded reforms to labour, taxes and various inprovements to living standards. However some radical members have called for the government to be overthrown entirely, the situation needs to be brought under control."
+ venezuela.15.d:0 "Recently many riots and protests have erupted in the capital Caracas, mostly fueled by the peasnt population disatisfied with the living conditions and work wages. Most of which situated around the Miraflores Palace, the federal government office of Venezuela.\n\nMany protestors have demanded reforms to labour, tax reductions and various improvements to living standards. However, some radical members have called for the government to be overthrown entirely. The situation needs to be brought under control."
  venezuela.15.a:0 "We need to do something!"
  venezuela.15.b:0 "Perhaps we can use this to our advantage."
 
  venezuela.16.t:0 "Inauguration of Eleazar Contreras"
- venezuela.16.d:0 "Today it has officialy been announced that Eleazar López Contreras has won a decisive vistory in the elections due to his large popularity amongst the government and the people.\n\nHe is scheduled later today to be inaugurated as the 45th president of Venezuela before the Congress of the Union Federal Legislative Palace.\n\nWith Contreras's promises to modernize Venezuela's healthcare, infanstructure and armed forces while also making a slow transition back to democracy has many Venezuelans seeing this event as a start of a new age for their nation."
+ venezuela.16.d:0 "Today it has officialy been announced that Eleazar López Contreras has won a decisive vistory in the elections due to his large popularity amongst the government and the people.\n\nHe is scheduled later today to be inaugurated as the 45th president of Venezuela before the Congress of the Union Federal Legislative Palace.\n\nWith Contreras's promises to modernize Venezuela's healthcare, infrastructure and armed forces while also making a slow transition back to democracy has many Venezuelans see this event as a start of a new age for their nation."
  venezuela.16.a:0 "A hero for Venezuela."
 
  venezuela.17.t:0 "[VEN.GetName] requests non-Aggression"
